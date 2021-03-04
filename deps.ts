@@ -1,1 +1,1 @@
-export { assertEquals } from "https://deno.land/std@0.87.0/testing/asserts.ts"
+export { App } from "https://deno.land/x/slack_bolt@1.0.0/mod.ts"
