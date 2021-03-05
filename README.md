@@ -16,8 +16,7 @@
     <br>
     <br>
 </div>
-
-> WARNING: This is not for any production use whatsoever. This bot uses eval(), which is highly unsafe. Although Deno has a sandbox and the code tries to prevent accessing the `Deno` object, you should still run this on an isolated VM. The author disclaims any liability, see LICENSE
+WARNING: This is not for any production use whatsoever. This bot uses eval(), which is highly unsafe. Although Deno has a sandbox and the code tries to prevent accessing the `Deno` object, you should still run this on an isolated VM. The author disclaims any liability, see LICENSE
 
 ## Running
 
