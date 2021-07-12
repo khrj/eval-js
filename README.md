@@ -1,16 +1,16 @@
 <div align="center">
     <img src="assets/logo.svg" width="400" height="400" alt="JS logo with run button on top-left">
-    <h1>EvalJS</h1>
+    <h1>eval-js</h1>
     <p>
         <b>Tiny bot allowing JS execution via Slack</b>
     </p>
     <p>
-        <img alt="build status" src="https://img.shields.io/github/workflow/status/KhushrajRathod/EvalJS/Deno?label=checks" >
-        <img alt="language" src="https://img.shields.io/github/languages/top/KhushrajRathod/EvalJS" >
-        <img alt="code size" src="https://img.shields.io/github/languages/code-size/KhushrajRathod/EvalJS">
-        <img alt="issues" src="https://img.shields.io/github/issues/KhushrajRathod/EvalJS" >
-        <img alt="license" src="https://img.shields.io/github/license/KhushrajRathod/EvalJS">
-        <img alt="version" src="https://img.shields.io/github/v/release/KhushrajRathod/EvalJS">
+        <img alt="build status" src="https://img.shields.io/github/workflow/status/khrj/eval-js/Deno?label=checks" >
+        <img alt="language" src="https://img.shields.io/github/languages/top/khrj/eval-js" >
+        <img alt="code size" src="https://img.shields.io/github/languages/code-size/khrj/eval-js">
+        <img alt="issues" src="https://img.shields.io/github/issues/khrj/eval-js" >
+        <img alt="license" src="https://img.shields.io/github/license/khrj/eval-js">
+        <img alt="version" src="https://img.shields.io/github/v/release/khrj/eval-js">
     </p>
     <br>
     <br>
@@ -27,12 +27,12 @@ deno run --allow-net index.ts
 
 ## Supporters
 
-[![Stargazers repo roster for @KhushrajRathod/EvalJS](https://reporoster.com/stars/KhushrajRathod/EvalJS)](https://github.com/KhushrajRathod/EvalJS/stargazers)
+[![Stargazers repo roster for @khrj/eval-js](https://reporoster.com/stars/khrj/eval-js)](https://github.com/khrj/eval-js/stargazers)
 
-[![Forkers repo roster for @KhushrajRathod/EvalJS](https://reporoster.com/forks/KhushrajRathod/EvalJS)](https://github.com/KhushrajRathod/EvalJS/network/members)
+[![Forkers repo roster for @khrj/eval-js](https://reporoster.com/forks/khrj/eval-js)](https://github.com/khrj/eval-js/network/members)
 
 ## Related
 
-- [Slack Info Bot](https://github.com/KhushrajRathod/SlackInfoBot)
+- [Slack Info Bot](https://github.com/khrj/slack-info-bot)
 - [Deno Slack SDK](https://github.com/slack-deno/deno-slack-sdk)
-- [Deno modules](https://github.com/KhushrajRathod/DenoModules)
+- [Deno modules](https://github.com/khrj/deno-modules)
